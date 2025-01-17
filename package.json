@@ -1,12 +1,12 @@
 {
-    "name": "Phoenix-MD",
+    "name": "NOXY",
     "version": "0.0.1",
     "description": "A Simple But Advanced WhatsApp Bot!",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
         "start": "pm2 start . --attach --name Phoenix-MD",
-        "stop": "pm2 stop Phoenix-MD"
+        "stop": "pm2 stop NOXY"
     },
     "engines": {
         "node": "20.x"
@@ -32,7 +32,7 @@
         "AbhishekSuresh2",
         "commonjs"
     ],
-    "author": "Abhishek Suresh",
+    "author": "NOXY",
     "license": "Apache License 2.0",
     "repository": {
         "type": "git",
